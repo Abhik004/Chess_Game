@@ -1,0 +1,14 @@
+nodeJS
+expressJS
+socket.io
+chessJS
+
+
+Plan------------------->>
+initialization
+initialBoardRendering
+Drag & Drop functionality
+Socket Event Handling -> client & server
+
+
+tum chat pe hey bhejte ho to pehle server k paas jaega... fir server sbko bhejega including you
